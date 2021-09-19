@@ -62,7 +62,7 @@ You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/m
     rossrv show AddTwoInts
    ```    
    * Writing code for [Talker](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/custom_talker2.py) and [Listener](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/custom_listener2.py)
-   <img src="Data/bool_talker.png">
+   <img src="Data/Custom_message.png">
    
     ``` 
     roscd beginner_tutorials
