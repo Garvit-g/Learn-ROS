@@ -9,7 +9,7 @@ You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/m
    rosrun beginner_tutorials talker.py
    rosrun beginner_tutorials listener.py
 ```  
- <img src="Data/talker_listener.png">
+ <img src="https://github.com/Garvit-g/Learn-ROS/blob/main/Data/talker_listener.png">
  * Writing a code for sending int through [talker](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/talker_int.py)  and obtaining integer on [listener](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/subscriber_int.py)  in ros and making them a node and running it
 
 
@@ -18,7 +18,7 @@ You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/m
    rosrun beginner_tutorials talker_int.py
    rosrun beginner_tutorials listener_int.py
 ```  
-  <img src="Data/int_talker.png">
+  <img src="https://github.com/Garvit-g/Learn-ROS/blob/main/Data/int_talker.png">
   
   * Writing a code for sending char through [talker](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/talker_char.py) and obtaining integer on [listener](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/subscriber_char.py) in ros and making them a node and running it
 
@@ -28,7 +28,7 @@ You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/m
    rosrun beginner_tutorials talker_char.py
    rosrun beginner_tutorials subscriber_char.py
 ```  
-  <img src="Data/char_talker.png">
+  <img src="https://github.com/Garvit-g/Learn-ROS/blob/main/Data/char_talker.png">
   * Writing a code for sending bool through   [talker](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/talker_bool.py)   and obtaining bool on   [listener](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/subscriber_bool.py)   in ros and making them a node and running it
 
 
@@ -42,7 +42,7 @@ You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/m
 ```
 
 
-  <img src="Data/bool_talker.png">
+  <img src="https://github.com/Garvit-g/Learn-ROS/blob/main/Data/bool_talker.png">
   
   * Sending a custom message using talker and listener in Ros
   
@@ -67,7 +67,7 @@ You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/m
     rossrv show AddTwoInts
    ```    
    * Writing code for [Talker](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/custom_talker2.py) and [Listener](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/custom_listener2.py)
-   <img src="Data/Custom_message.png">
+   <img src="https://github.com/Garvit-g/Learn-ROS/blob/main/Data/Custom_message.png">
    
    
    
