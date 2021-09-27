@@ -1,5 +1,5 @@
-## Task2 Submission
-This is a submission for Task 2  
+## Task3 Submission
+This is a submission for Task 3  
 You can find the ROS package [here](https://github.com/Garvit-g/Learn-ROS/tree/main/beginner_tutorials)
 
 * Writing a code for [moving turtle forward](https://github.com/Garvit-g/Learn-ROS/blob/main/beginner_tutorials/scripts/turtle_move.py) in ros and making them a node and running it
